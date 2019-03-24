@@ -293,6 +293,10 @@ section h2{
 		float: right;
 	}
 
+	#sec02_03 .txt, #sec02_03 .bg{
+		float: right;
+	}
+
 	.vMid{
 		display: table-cell;
 		padding: 0 100px;
